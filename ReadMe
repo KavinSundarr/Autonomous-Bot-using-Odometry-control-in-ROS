@@ -1,4 +1,4 @@
 This Project Still in Progress 
-            -Implemented the robot design with a pre-rendered model of the model
+            -Implemented the robot design with a pre-rendered model of the Robot
             -Implementation of Odeometry control is still remaining
             -Progressed done till having a ros-control for the simulation of the robot in gazebo
