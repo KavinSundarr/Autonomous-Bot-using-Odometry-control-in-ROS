@@ -2,3 +2,14 @@ This Project Still in Progress
             -Implemented the robot design with a pre-rendered model of the Robot
             -Implementation of Odeometry control is still remaining
             -Progressed done till having a ros-control for the simulation of the robot in gazebo
+
+
+pre-installed Tools/Packages used in the project:
+     ros-noetic-ros-controllers 
+     ros-noetic-gazebo-ros-control 
+     ros-noetic-joint-state-publisher-gui 
+     ros-noetic-joy 
+     ros-noetic-joy-teleop 
+     ros-noetic-turtlesim 
+     ros-noetic-robot-localization 
+     ros-noetic-actionlib-tools
