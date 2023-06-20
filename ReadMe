@@ -13,3 +13,10 @@ pre-installed Tools/Packages used in the project:
      ros-noetic-turtlesim 
      ros-noetic-robot-localization 
      ros-noetic-actionlib-tools
+
+
+Working of the Odometry Control:
+     - By using Differential Kinematics in a 2d-plane from the postition of the Robot to detect an object and 
+       estimate thier distance and indicate how far the robot has traveled, based on the amount that the wheels 
+       have turned and to estimate change in position over time.
+     - Inverse kinematics is used to determine the motion of a robot to reach a desired position 
